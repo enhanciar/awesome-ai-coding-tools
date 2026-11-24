@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-09",
+  "lastUpdated": "2026-11-24",
   "toolCount": 87,
   "tools": [
     {
@@ -12,8 +12,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://antigravity.google"
+      "last_verified": "2026-11-24",
+      "source": "https://antigravity.google",
+      "reachable": true
     },
     {
       "name": "Cursor",
@@ -24,8 +25,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://www.cursor.com/"
+      "last_verified": "2026-11-24",
+      "source": "https://www.cursor.com/",
+      "reachable": true
     },
     {
       "name": "Google Jules",
@@ -36,8 +38,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://jules.google/"
+      "last_verified": "2026-11-24",
+      "source": "https://jules.google/",
+      "reachable": true
     },
     {
       "name": "Kiro",
@@ -48,8 +51,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://kiro.dev/"
+      "last_verified": "2026-11-24",
+      "source": "https://kiro.dev/",
+      "reachable": true
     },
     {
       "name": "PearAI",
@@ -60,8 +64,9 @@
       "pricing": "freemium",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://trypear.ai/"
+      "last_verified": "2026-11-24",
+      "source": "https://trypear.ai/",
+      "reachable": false
     },
     {
       "name": "Trae",
@@ -72,8 +77,9 @@
       "pricing": "free",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://www.trae.ai/"
+      "last_verified": "2026-11-24",
+      "source": "https://www.trae.ai/",
+      "reachable": true
     },
     {
       "name": "Volt",
@@ -84,8 +90,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/LeulAria/volt"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/LeulAria/volt",
+      "archived": false,
+      "stars": 35,
+      "last_commit": "2026-11-24T05:02:34Z",
+      "reachable": true
     },
     {
       "name": "Windsurf",
@@ -96,8 +106,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://windsurf.com/"
+      "last_verified": "2026-11-24",
+      "source": "https://windsurf.com/",
+      "reachable": true
     },
     {
       "name": "Zed",
@@ -108,8 +119,9 @@
       "pricing": "free",
       "license": "GPL-3.0 / Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://zed.dev/"
+      "last_verified": "2026-11-24",
+      "source": "https://zed.dev/",
+      "reachable": true
     },
     {
       "name": "Codeium",
@@ -120,8 +132,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://codeium.com/"
+      "last_verified": "2026-11-24",
+      "source": "https://codeium.com/",
+      "reachable": true
     },
     {
       "name": "Continue.dev",
@@ -132,8 +145,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/continuedev/continue"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/continuedev/continue",
+      "archived": false,
+      "stars": 36548,
+      "last_commit": "2026-11-24T11:17:47Z",
+      "reachable": true
     },
     {
       "name": "Supermaven",
@@ -144,8 +161,9 @@
       "pricing": "paid",
       "license": "Proprietary",
       "maintenance_status": "inactive",
-      "last_verified": "2026-11-09",
-      "source": "https://supermaven.com/"
+      "last_verified": "2026-11-24",
+      "source": "https://supermaven.com/",
+      "reachable": true
     },
     {
       "name": "Tabby",
@@ -154,10 +172,14 @@
       "description": "Self-hosted AI coding assistant server; an open-source, private alternative to GitHub Copilot.",
       "open_source": true,
       "pricing": "freemium",
-      "license": "Apache-2.0",
+      "license": "NOASSERTION",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/TabbyML/tabby"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/TabbyML/tabby",
+      "archived": false,
+      "stars": 33923,
+      "last_commit": "2026-06-30T20:38:02Z",
+      "reachable": true
     },
     {
       "name": "Aider",
@@ -168,8 +190,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/paul-gauthier/aider"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/paul-gauthier/aider",
+      "archived": false,
+      "stars": 50237,
+      "last_commit": "2026-05-22T14:02:20Z",
+      "reachable": true
     },
     {
       "name": "Avante.nvim",
@@ -180,8 +206,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/yetone/avante.nvim"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/yetone/avante.nvim",
+      "archived": false,
+      "stars": 18208,
+      "last_commit": "2026-11-24T03:50:23Z",
+      "reachable": true
     },
     {
       "name": "Claude Code",
@@ -192,8 +222,9 @@
       "pricing": "paid",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://code.claude.com/docs"
+      "last_verified": "2026-11-24",
+      "source": "https://code.claude.com/docs",
+      "reachable": true
     },
     {
       "name": "Cline",
@@ -204,8 +235,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/cline/cline"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/cline/cline",
+      "archived": false,
+      "stars": 71856,
+      "last_commit": "2026-11-23T23:35:30Z",
+      "reachable": true
     },
     {
       "name": "Codewhale",
@@ -216,8 +251,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/codewhale-hq/Codewhale"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/codewhale-hq/Codewhale",
+      "archived": false,
+      "stars": 41196,
+      "last_commit": "2026-11-24T12:17:56Z",
+      "reachable": true
     },
     {
       "name": "Codex CLI",
@@ -228,8 +267,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/openai/codex"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/openai/codex",
+      "archived": false,
+      "stars": 136299,
+      "last_commit": "2026-11-24T11:58:30Z",
+      "reachable": true
     },
     {
       "name": "DeepSeek-Reasonix",
@@ -239,9 +282,13 @@
       "open_source": true,
       "pricing": "free",
       "license": "MIT",
-      "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/esengine/DeepSeek-Reasonix"
+      "maintenance_status": "inactive",
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/esengine/DeepSeek-Reasonix",
+      "archived": true,
+      "stars": 36074,
+      "last_commit": "2026-11-12T08:30:31Z",
+      "reachable": true
     },
     {
       "name": "Flisk",
@@ -252,8 +299,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/flisk-sh/flisk"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/flisk-sh/flisk",
+      "archived": false,
+      "stars": 58,
+      "last_commit": "2026-11-24T12:32:42Z",
+      "reachable": true
     },
     {
       "name": "Gemini CLI",
@@ -264,8 +315,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/google-gemini/gemini-cli"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/google-gemini/gemini-cli",
+      "archived": false,
+      "stars": 109047,
+      "last_commit": "2026-11-24T03:54:31Z",
+      "reachable": true
     },
     {
       "name": "Goose",
@@ -276,8 +331,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/block/goose"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/block/goose",
+      "archived": false,
+      "stars": 56926,
+      "last_commit": "2026-11-24T11:54:11Z",
+      "reachable": true
     },
     {
       "name": "Imagera Code",
@@ -288,8 +347,9 @@
       "pricing": "paid",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://imagera.ai/code"
+      "last_verified": "2026-11-24",
+      "source": "https://imagera.ai/code",
+      "reachable": true
     },
     {
       "name": "jcode",
@@ -300,8 +360,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/1jehuang/jcode"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/1jehuang/jcode",
+      "archived": false,
+      "stars": 22015,
+      "last_commit": "2026-11-24T03:26:24Z",
+      "reachable": true
     },
     {
       "name": "Kilo Code",
@@ -312,8 +376,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/Kilo-Org/kilocode"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/Kilo-Org/kilocode",
+      "archived": false,
+      "stars": 28107,
+      "last_commit": "2026-11-24T08:56:00Z",
+      "reachable": true
     },
     {
       "name": "Mentat",
@@ -324,8 +392,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "inactive",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/AbanteAI/archive-old-cli-mentat"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/AbanteAI/archive-old-cli-mentat",
+      "archived": true,
+      "stars": 2534,
+      "last_commit": "2025-01-07T22:52:59Z",
+      "reachable": true
     },
     {
       "name": "OMK",
@@ -336,8 +408,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/dmae97/omk"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/dmae97/omk",
+      "archived": false,
+      "stars": 153,
+      "last_commit": "2026-11-24T04:23:39Z",
+      "reachable": true
     },
     {
       "name": "OpenCode",
@@ -348,8 +424,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/anomalyco/opencode"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/anomalyco/opencode",
+      "archived": false,
+      "stars": 228895,
+      "last_commit": "2026-11-24T12:52:59Z",
+      "reachable": true
     },
     {
       "name": "Qwen Code",
@@ -360,8 +440,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/QwenLM/qwen-code"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/QwenLM/qwen-code",
+      "archived": false,
+      "stars": 30918,
+      "last_commit": "2026-11-24T12:39:49Z",
+      "reachable": true
     },
     {
       "name": "Roo Code",
@@ -372,8 +456,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "inactive",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/RooVetGit/Roo-Code"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/RooVetGit/Roo-Code",
+      "archived": true,
+      "stars": 24236,
+      "last_commit": "2026-05-15T18:08:47Z",
+      "reachable": true
     },
     {
       "name": "RTK (Rust Token Killer)",
@@ -384,8 +472,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/rtk-ai/rtk"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/rtk-ai/rtk",
+      "archived": false,
+      "stars": 87672,
+      "last_commit": "2026-11-23T17:40:27Z",
+      "reachable": true
     },
     {
       "name": "Xenon",
@@ -396,8 +488,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/xianyu-sheng/Xenon"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/xianyu-sheng/Xenon",
+      "archived": false,
+      "stars": 55,
+      "last_commit": "2026-11-19T19:15:00Z",
+      "reachable": true
     },
     {
       "name": "AgentsMesh",
@@ -408,8 +504,9 @@
       "pricing": "free",
       "license": "Unknown",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/AgentsMesh/AgentsMesh"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/AgentsMesh/AgentsMesh",
+      "reachable": false
     },
     {
       "name": "Althar",
@@ -420,8 +517,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/AltharIDE/althar"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/AltharIDE/althar",
+      "archived": false,
+      "stars": 22,
+      "last_commit": "2026-11-24T10:22:26Z",
+      "reachable": true
     },
     {
       "name": "Bivy",
@@ -432,8 +533,12 @@
       "pricing": "freemium",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/bivysh/bivy"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/bivysh/bivy",
+      "archived": false,
+      "stars": 2,
+      "last_commit": "2026-11-24T06:24:28Z",
+      "reachable": true
     },
     {
       "name": "Carbon Forge",
@@ -444,8 +549,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://carbonforge.dev/"
+      "last_verified": "2026-11-24",
+      "source": "https://carbonforge.dev/",
+      "reachable": true
     },
     {
       "name": "ccmanager",
@@ -456,8 +562,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/kbwo/ccmanager"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/kbwo/ccmanager",
+      "archived": false,
+      "stars": 1280,
+      "last_commit": "2026-10-27T23:41:16Z",
+      "reachable": true
     },
     {
       "name": "Claude Squad",
@@ -468,8 +578,12 @@
       "pricing": "free",
       "license": "AGPL-3.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/smtg-ai/claude-squad"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/smtg-ai/claude-squad",
+      "archived": false,
+      "stars": 8863,
+      "last_commit": "2026-11-13T13:13:11Z",
+      "reachable": true
     },
     {
       "name": "cmux",
@@ -478,10 +592,14 @@
       "description": "Ghostty-based macOS terminal designed with vertical workspaces and desktop notifications for agent fleets.",
       "open_source": true,
       "pricing": "free",
-      "license": "MIT",
+      "license": "NOASSERTION",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/manaflow-ai/cmux"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/manaflow-ai/cmux",
+      "archived": false,
+      "stars": 28939,
+      "last_commit": "2026-11-24T12:58:57Z",
+      "reachable": true
     },
     {
       "name": "Kodama",
@@ -492,8 +610,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/optimiware/kodama"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/optimiware/kodama",
+      "archived": false,
+      "stars": 2,
+      "last_commit": "2026-11-24T12:37:56Z",
+      "reachable": true
     },
     {
       "name": "MulmoTerminal",
@@ -504,8 +626,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/receptron/mulmoterminal"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/receptron/mulmoterminal",
+      "archived": false,
+      "stars": 277,
+      "last_commit": "2026-11-24T12:10:03Z",
+      "reachable": true
     },
     {
       "name": "Orca",
@@ -516,8 +642,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/stablyai/orca"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/stablyai/orca",
+      "archived": false,
+      "stars": 135366,
+      "last_commit": "2026-11-24T12:58:44Z",
+      "reachable": true
     },
     {
       "name": "Orkas",
@@ -528,8 +658,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/Orkas-AI/Orkas"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/Orkas-AI/Orkas",
+      "archived": false,
+      "stars": 9568,
+      "last_commit": "2026-11-24T11:37:53Z",
+      "reachable": true
     },
     {
       "name": "Paradev",
@@ -540,8 +674,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/ParadevAI/Paradev"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/ParadevAI/Paradev",
+      "archived": false,
+      "stars": 16537,
+      "last_commit": "2026-11-24T12:29:34Z",
+      "reachable": true
     },
     {
       "name": "ruflo",
@@ -552,8 +690,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/ruvnet/ruflo"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/ruvnet/ruflo",
+      "archived": false,
+      "stars": 82350,
+      "last_commit": "2026-11-24T07:28:14Z",
+      "reachable": true
     },
     {
       "name": "Sqwakie",
@@ -564,8 +706,9 @@
       "pricing": "freemium",
       "license": "FSL-1.1-ALv2",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://sqwakie.si/"
+      "last_verified": "2026-11-24",
+      "source": "https://sqwakie.si/",
+      "reachable": true
     },
     {
       "name": "Valo",
@@ -576,8 +719,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://getvalo.dev"
+      "last_verified": "2026-11-24",
+      "source": "https://getvalo.dev",
+      "reachable": true
     },
     {
       "name": "Vibe Kanban",
@@ -588,8 +732,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/BloopAI/vibe-kanban"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/BloopAI/vibe-kanban",
+      "archived": false,
+      "stars": 28801,
+      "last_commit": "2026-11-15T16:05:54Z",
+      "reachable": true
     },
     {
       "name": "BrowserTools MCP",
@@ -600,8 +748,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/AgentDeskAI/browser-tools-mcp"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/AgentDeskAI/browser-tools-mcp",
+      "archived": false,
+      "stars": 7344,
+      "last_commit": "2026-10-28T19:06:19Z",
+      "reachable": true
     },
     {
       "name": "call-me",
@@ -610,10 +762,14 @@
       "description": "Hosted remote MCP server (Streamable HTTP, plus mobile companion app) that lets a coding agent ring your phone or text you for human-in-the-loop decisions.",
       "open_source": true,
       "pricing": "paid",
-      "license": "MIT (Client) / Proprietary",
+      "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/radres/call-me"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/radres/call-me",
+      "archived": false,
+      "stars": 47,
+      "last_commit": "2026-11-23T22:26:50Z",
+      "reachable": true
     },
     {
       "name": "Chrome DevTools MCP",
@@ -624,8 +780,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "archived": false,
+      "stars": 59136,
+      "last_commit": "2026-11-24T10:18:37Z",
+      "reachable": true
     },
     {
       "name": "Cloud Alter Ego",
@@ -636,8 +796,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://cloudalterego.cafeboon.com"
+      "last_verified": "2026-11-24",
+      "source": "https://cloudalterego.cafeboon.com",
+      "reachable": true
     },
     {
       "name": "codebase-memory-mcp",
@@ -648,8 +809,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/DeusData/codebase-memory-mcp"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/DeusData/codebase-memory-mcp",
+      "archived": false,
+      "stars": 49110,
+      "last_commit": "2026-11-23T17:36:27Z",
+      "reachable": true
     },
     {
       "name": "Context7 MCP",
@@ -658,10 +823,14 @@
       "description": "Dynamic context-curation server providing real-time AST symbol definitions and semantic codebase navigation.",
       "open_source": true,
       "pricing": "freemium",
-      "license": "Apache-2.0",
+      "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/upstash/context7"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/upstash/context7",
+      "archived": false,
+      "stars": 65376,
+      "last_commit": "2026-11-24T11:32:37Z",
+      "reachable": true
     },
     {
       "name": "Docsy",
@@ -672,8 +841,12 @@
       "pricing": "freemium",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/getremcp/docsy-plugin"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/getremcp/docsy-plugin",
+      "archived": false,
+      "stars": 1,
+      "last_commit": "2026-11-02T13:06:19Z",
+      "reachable": true
     },
     {
       "name": "Filesystem & Git MCP",
@@ -682,10 +855,14 @@
       "description": "Official reference MCP server enabling agents to inspect git commits, staging areas, branches, and file structures securely.",
       "open_source": true,
       "pricing": "free",
-      "license": "MIT",
+      "license": "NOASSERTION",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/modelcontextprotocol/servers/tree/main/src/git"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
+      "archived": false,
+      "stars": 92208,
+      "last_commit": "2026-11-24T06:14:45Z",
+      "reachable": true
     },
     {
       "name": "Geonode MCP Server",
@@ -696,8 +873,12 @@
       "pricing": "freemium",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/geonodecom/mcp"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/geonodecom/mcp",
+      "archived": false,
+      "stars": 27,
+      "last_commit": "2026-10-29T13:22:44Z",
+      "reachable": true
     },
     {
       "name": "GitHub MCP Server",
@@ -706,10 +887,14 @@
       "description": "Integrates GitHub issues, pull requests, repository searches, and commit reviews directly into agent reasoning loops.",
       "open_source": true,
       "pricing": "free",
-      "license": "MIT",
+      "license": "NOASSERTION",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/modelcontextprotocol/servers/tree/main/src/github"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/modelcontextprotocol/servers/tree/main/src/github",
+      "archived": false,
+      "stars": 92208,
+      "last_commit": "2026-11-24T06:14:45Z",
+      "reachable": true
     },
     {
       "name": "Ironheights",
@@ -720,8 +905,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/Frank-Masciopinto/ironheights"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/Frank-Masciopinto/ironheights",
+      "archived": false,
+      "stars": 4,
+      "last_commit": "2026-11-24T11:54:19Z",
+      "reachable": true
     },
     {
       "name": "Oh My Android",
@@ -732,8 +921,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/ateymoori/oh-my-android"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/ateymoori/oh-my-android",
+      "archived": false,
+      "stars": 167,
+      "last_commit": "2026-11-24T09:51:14Z",
+      "reachable": true
     },
     {
       "name": "Postgres MCP",
@@ -742,10 +935,14 @@
       "description": "Read-only schema inspector and query execution bridge enabling coding agents to validate database migrations and models.",
       "open_source": true,
       "pricing": "free",
-      "license": "MIT",
+      "license": "NOASSERTION",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres",
+      "archived": false,
+      "stars": 92208,
+      "last_commit": "2026-11-24T06:14:45Z",
+      "reachable": true
     },
     {
       "name": "ReMCP",
@@ -756,8 +953,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/getremcp/remcp"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/getremcp/remcp",
+      "archived": false,
+      "stars": 5,
+      "last_commit": "2026-11-23T16:26:49Z",
+      "reachable": true
     },
     {
       "name": "Serena",
@@ -766,10 +967,14 @@
       "description": "MCP toolkit for coding agents providing semantic symbol retrieval and code editing capabilities.",
       "open_source": true,
       "pricing": "free",
-      "license": "MIT",
+      "license": "NOASSERTION",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/oraios/serena"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/oraios/serena",
+      "archived": false,
+      "stars": 31661,
+      "last_commit": "2026-11-23T15:11:36Z",
+      "reachable": true
     },
     {
       "name": "sqlite-graph-memory",
@@ -780,8 +985,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/tonydzi/sqlite-graph-memory"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/tonydzi/sqlite-graph-memory",
+      "archived": false,
+      "stars": 17,
+      "last_commit": "2026-11-23T14:16:13Z",
+      "reachable": true
     },
     {
       "name": "Codestral",
@@ -792,8 +1001,9 @@
       "pricing": "free",
       "license": "Mistral Non-Production / Commercial",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://mistral.ai/news/codestral/"
+      "last_verified": "2026-11-24",
+      "source": "https://mistral.ai/news/codestral/",
+      "reachable": true
     },
     {
       "name": "DeepSeek-Coder-V2",
@@ -802,10 +1012,14 @@
       "description": "Mixture-of-Experts code language model with 128k context length supporting 338 programming languages.",
       "open_source": true,
       "pricing": "free",
-      "license": "DeepSeek / MIT",
+      "license": "MIT",
       "maintenance_status": "slow",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/deepseek-ai/DeepSeek-Coder-V2"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/deepseek-ai/DeepSeek-Coder-V2",
+      "archived": false,
+      "stars": 7039,
+      "last_commit": "2025-11-11T06:44:45Z",
+      "reachable": true
     },
     {
       "name": "DeepSeek-V3 / DeepSeek-R1",
@@ -816,8 +1030,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/deepseek-ai/DeepSeek-V3"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "archived": false,
+      "stars": 104892,
+      "last_commit": "2025-08-28T03:24:37Z",
+      "reachable": true
     },
     {
       "name": "Devstral Small 2 (24B)",
@@ -828,8 +1046,9 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://mistral.ai/news/devstral-2/"
+      "last_verified": "2026-11-24",
+      "source": "https://mistral.ai/news/devstral-2/",
+      "reachable": false
     },
     {
       "name": "Llama-4 / CodeLlama Series",
@@ -838,10 +1057,14 @@
       "description": "Meta's open foundation architectures specialized for code generation, instruction following, and infilling tasks.",
       "open_source": true,
       "pricing": "free",
-      "license": "Llama Community License",
+      "license": "NOASSERTION",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/meta-llama/llama"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/meta-llama/llama",
+      "archived": false,
+      "stars": 59649,
+      "last_commit": "2025-01-26T21:42:26Z",
+      "reachable": true
     },
     {
       "name": "Qwen2.5-Coder",
@@ -852,8 +1075,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/QwenLM/Qwen2.5-Coder"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/QwenLM/Qwen2.5-Coder",
+      "archived": false,
+      "stars": 16872,
+      "last_commit": "2026-03-24T08:22:10Z",
+      "reachable": true
     },
     {
       "name": "Qwen3-Coder Preview",
@@ -864,8 +1091,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/QwenLM/Qwen3-Coder"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/QwenLM/Qwen3-Coder",
+      "archived": false,
+      "stars": 16872,
+      "last_commit": "2026-03-24T08:22:10Z",
+      "reachable": true
     },
     {
       "name": "StarCoder 2",
@@ -874,10 +1105,14 @@
       "description": "Open, transparently trained code models (3B, 7B, 15B) curated by BigCode under permissive licenses.",
       "open_source": true,
       "pricing": "free",
-      "license": "BigCode OpenRAIL-M",
+      "license": "Apache-2.0",
       "maintenance_status": "slow",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/bigcode-project/starcoder2"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/bigcode-project/starcoder2",
+      "archived": false,
+      "stars": 2098,
+      "last_commit": "2024-03-21T11:54:59Z",
+      "reachable": true
     },
     {
       "name": "llama.cpp",
@@ -888,8 +1123,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/ggerganov/llama.cpp"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/ggerganov/llama.cpp",
+      "archived": false,
+      "stars": 136098,
+      "last_commit": "2026-11-24T12:48:03Z",
+      "reachable": true
     },
     {
       "name": "LM Studio",
@@ -900,8 +1139,9 @@
       "pricing": "free",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://lmstudio.ai/"
+      "last_verified": "2026-11-24",
+      "source": "https://lmstudio.ai/",
+      "reachable": true
     },
     {
       "name": "Ollama",
@@ -912,8 +1152,9 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://ollama.com/"
+      "last_verified": "2026-11-24",
+      "source": "https://ollama.com/",
+      "reachable": true
     },
     {
       "name": "Outlier",
@@ -924,8 +1165,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://outlier.host/"
+      "last_verified": "2026-11-24",
+      "source": "https://outlier.host/",
+      "reachable": true
     },
     {
       "name": "vLLM",
@@ -936,8 +1178,12 @@
       "pricing": "free",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/vllm-project/vllm"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/vllm-project/vllm",
+      "archived": false,
+      "stars": 97473,
+      "last_commit": "2026-11-24T12:49:43Z",
+      "reachable": true
     },
     {
       "name": "agent-qa",
@@ -948,8 +1194,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://vostride.com"
+      "last_verified": "2026-11-24",
+      "source": "https://vostride.com",
+      "reachable": true
     },
     {
       "name": "code-review-graph",
@@ -960,8 +1207,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/tirth8205/code-review-graph"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/tirth8205/code-review-graph",
+      "archived": false,
+      "stars": 32923,
+      "last_commit": "2026-11-16T21:54:55Z",
+      "reachable": true
     },
     {
       "name": "CodeRabbit",
@@ -972,8 +1223,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://coderabbit.ai/"
+      "last_verified": "2026-11-24",
+      "source": "https://coderabbit.ai/",
+      "reachable": true
     },
     {
       "name": "Cover-Agent",
@@ -984,8 +1236,12 @@
       "pricing": "free",
       "license": "AGPL-3.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/Codium-ai/cover-agent"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/Codium-ai/cover-agent",
+      "archived": false,
+      "stars": 5691,
+      "last_commit": "2026-04-05T12:27:16Z",
+      "reachable": true
     },
     {
       "name": "Keploy",
@@ -996,8 +1252,12 @@
       "pricing": "freemium",
       "license": "Apache-2.0",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/keploy/keploy"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/keploy/keploy",
+      "archived": false,
+      "stars": 19982,
+      "last_commit": "2026-11-24T12:54:18Z",
+      "reachable": true
     },
     {
       "name": "Qodo (CodiumAI)",
@@ -1008,8 +1268,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://www.qodo.ai/"
+      "last_verified": "2026-11-24",
+      "source": "https://www.qodo.ai/",
+      "reachable": true
     },
     {
       "name": "Semgrep Assistant",
@@ -1020,8 +1281,9 @@
       "pricing": "freemium",
       "license": "Proprietary",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://semgrep.dev/"
+      "last_verified": "2026-11-24",
+      "source": "https://semgrep.dev/",
+      "reachable": true
     },
     {
       "name": "OpenHands",
@@ -1032,8 +1294,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/All-Hands-AI/OpenHands"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/All-Hands-AI/OpenHands",
+      "archived": false,
+      "stars": 94218,
+      "last_commit": "2026-11-24T12:02:41Z",
+      "reachable": true
     },
     {
       "name": "SWE-agent",
@@ -1044,8 +1310,12 @@
       "pricing": "free",
       "license": "MIT",
       "maintenance_status": "active",
-      "last_verified": "2026-11-09",
-      "source": "https://github.com/princeton-nlp/SWE-agent"
+      "last_verified": "2026-11-24",
+      "source": "https://github.com/princeton-nlp/SWE-agent",
+      "archived": false,
+      "stars": 20866,
+      "last_commit": "2026-11-23T23:02:05Z",
+      "reachable": true
     }
   ]
 }
